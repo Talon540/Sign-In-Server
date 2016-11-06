@@ -1,0 +1,4 @@
+LIBRARIES USED:
+- mysql-server
+- python-mysqldb
+- csv
