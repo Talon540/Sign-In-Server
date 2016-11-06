@@ -60,6 +60,7 @@ To reduce paper-usage as well as improve speed, we have devised a simple electro
       - Be sure that you have downloaded the data before truncating the table!
       
     - If the inputted Admin PIN is incorrect, the system will automatically exit.
+
 ## Notes
 
 1. Feel free to edit and modify the code in whatever way you wish, just ensure that you cite this source code
